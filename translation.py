@@ -11,7 +11,7 @@ Press /settings to change my settings ⚙.
 
 For More Details check Help 📜
 
-Maintained By: [ᴍʜᴅ ᴍᴜꜰᴀᴢ 👨‍💻](https://t.me/mufaz123)
+Maintained By: [**ʙx ʙᴏᴛᴢ 👨‍💻**](https://t.me/BX_Botz)
 """
 
 
@@ -44,7 +44,7 @@ Maintained By: [ᴍʜᴅ ᴍᴜꜰᴀᴢ 👨‍💻](https://t.me/mufaz123)
 
 **👥 Group:** [BX Bot Support](https://t.me/BxSupport)
 
-**💻 Source Code:**[Press Me](https://github.com/Mufaz706/TG-CONVERT-BOT)
+**💻 Source Code:**[Press Me](https://github.com/MufazTG/TG-Converter-Robot)
 
 """
 
