@@ -16,7 +16,6 @@
 
 - Give your username in USER_ID.
 
-<i>YouTube video</i> - <a href="https://youtu.be/zQamSjXBpJU"><img src="https://img.shields.io/badge/How%20To-Create-red.svg?logo=Youtube"></a>
 
 
 
